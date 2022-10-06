@@ -1,8 +1,8 @@
 # Auth-LoginForm
 authenticated Login From connected with firebase
 
-download the code
-open the folder in vs
-open terminal and run npm install
-run npm start 
-check your localhost :)
+1.download the code
+2.open the folder in vs
+3.open terminal and run npm install
+4.run npm start 
+5.check your localhost :)
